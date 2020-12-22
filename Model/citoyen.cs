@@ -20,7 +20,9 @@ public class citoyen : citoyen {
     public void date-decee;
 
     public void Num CIN;
-
+    
+    public bool PCR-Test;
+     
     public void Num pssport;
 
     public void situation sanitaire;
