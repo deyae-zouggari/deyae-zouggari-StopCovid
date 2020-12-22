@@ -15,7 +15,9 @@ public class citoyen : citoyen {
 
     public void Prenom;
 
-    public void Age;
+    public void date-naissance;
+    
+    public void date-decee;
 
     public void Num CIN;
 
@@ -24,6 +26,7 @@ public class citoyen : citoyen {
     public void situation sanitaire;
 
     public void GPS;
+   
 
 
 
