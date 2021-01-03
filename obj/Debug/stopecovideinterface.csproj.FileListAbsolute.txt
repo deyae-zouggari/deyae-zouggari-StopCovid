@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\stopecovideinterface\bin\Debug\stopecovideinterface.exe.config
+C:\Users\HP\source\repos\stopecovideinterface\bin\Debug\stopecovideinterface.exe
+C:\Users\HP\source\repos\stopecovideinterface\bin\Debug\stopecovideinterface.pdb
+C:\Users\HP\source\repos\stopecovideinterface\obj\Debug\stopecovideinterface.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\stopecovideinterface\obj\Debug\stopecovideinterface.Form1.resources
+C:\Users\HP\source\repos\stopecovideinterface\obj\Debug\stopecovideinterface.Form2.resources
+C:\Users\HP\source\repos\stopecovideinterface\obj\Debug\stopecovideinterface.Properties.Resources.resources
+C:\Users\HP\source\repos\stopecovideinterface\obj\Debug\stopecovideinterface.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\stopecovideinterface\obj\Debug\stopecovideinterface.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\stopecovideinterface\obj\Debug\stopecovideinterface.exe
+C:\Users\HP\source\repos\stopecovideinterface\obj\Debug\stopecovideinterface.pdb
+C:\Users\HP\source\repos\stopecovideinterface\obj\Debug\stopecovideinterface.Form3.resources
