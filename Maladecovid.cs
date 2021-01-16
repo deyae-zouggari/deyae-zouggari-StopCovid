@@ -4,9 +4,10 @@ using System.Text;
 
 namespace diagclasscovide
 {
-    public class Citoyen
+    public class Maladecovid : Citoyen
     {
-        public int id_user
+
+        public int traitement_covid
         {
             get => default;
             set
@@ -14,7 +15,7 @@ namespace diagclasscovide
             }
         }
 
-        public int Nom
+        public int PCR_test
         {
             get => default;
             set
@@ -22,7 +23,7 @@ namespace diagclasscovide
             }
         }
 
-        public int Prenom
+        public int vaccine_traitement
         {
             get => default;
             set
@@ -30,36 +31,22 @@ namespace diagclasscovide
             }
         }
 
-        public int age
-        {
-            get => default;
-            set
-            {
-            }
-        }
-
-        public int CIN
-        {
-            get => default;
-            set
-            {
-            }
-        }
-
-        public int passport
-        {
-            get => default;
-            set
-            {
-            }
-        }
-
-        public void EnMouveent()
+        public void AjouteralalistedesMalade()
         {
             throw new System.NotImplementedException();
         }
 
-        public void voyager()
+        public void manierdaffectationmalade()
+        {
+            throw new System.NotImplementedException();
+        }
+
+        public void vaccination()
+        {
+            throw new System.NotImplementedException();
+        }
+
+        public void traitement()
         {
             throw new System.NotImplementedException();
         }
