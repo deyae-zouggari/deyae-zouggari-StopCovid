@@ -54,12 +54,33 @@ namespace diagclasscovide
             }
         }
 
+        public Citoyen Citoyen1
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
+        public hopitale hopitale
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
         public void EnMouveent()
         {
             throw new System.NotImplementedException();
         }
 
-        public void voyager()
+        public void faire_teste()
+        {
+            throw new System.NotImplementedException();
+        }
+
+        public void consultationmedicale()
         {
             throw new System.NotImplementedException();
         }
